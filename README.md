@@ -1,2 +1,2 @@
 # QA-SoftUni
-This is my second demo repository 
+This is my first demo repository 
